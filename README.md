@@ -1,5 +1,5 @@
 ### 🌱 I’m currently learning ...
-https://blog.heeyboy.cn
+https://blog.shigang.eu.org
 <!--
 **hellowzsg/hellowzsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
